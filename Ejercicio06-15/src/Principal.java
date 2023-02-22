@@ -6,7 +6,10 @@ devuelva en formato «Apellidos, Iniciales». Ejemplo:
 import java.util.Scanner;
 
 public class Principal {
-
+/**
+ * Función principal
+ * @param args
+ */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner entrada = new Scanner(System.in);

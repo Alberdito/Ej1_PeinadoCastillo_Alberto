@@ -1,7 +1,9 @@
 import java.util.Scanner;
-public class Principal {
+public class Principal 
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		// TODO Auto-generated method stub
 		Scanner entrada = new Scanner(System.in);
 		

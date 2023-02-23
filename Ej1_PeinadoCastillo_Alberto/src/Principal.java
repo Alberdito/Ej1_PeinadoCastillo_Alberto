@@ -10,6 +10,8 @@ public class Principal
 		double dPeso, dAltura, dIMC;
 		String sDiagnostico;
 		
+		//
+		
 		System.out.println("Introduzca su peso (Kg):");
 		dPeso = entrada.nextDouble();
 		
